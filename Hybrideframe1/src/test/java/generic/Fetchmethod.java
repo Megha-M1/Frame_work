@@ -7,7 +7,7 @@ public class Fetchmethod {
 	public static void main(String[] args) {
 		Response res=
 		
-		
+		//good
 		
 
 	}
